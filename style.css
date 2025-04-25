@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    color:white;
+    background-color: black;
+    justify-content: space-evenly;
+    height: 60px;
+}
+.pera{
+    margin: 0px 10px 0px;
+}
+.evee{
+    font-size: 100px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+ul>li{
+    list-style: none;
+    word-spacing: 40px;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+.ev{
+    display: flex;
+    align-items: center;
+    line-height: 5px;
+    text-indent: 40px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: green;
+    padding: 20px;
+}
+.b{
+    background-color:white;
+    color:green;
+    width: 150px;
+    padding: 30px;
+    
+}
+.b:hover{
+    background-color:white;
+    color:green;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: green;
+}
+img{
+    height: 500px;
+    width: 1270px;
+}
+.effert{
+    left: 16px;
+    bottom: 400px;
+    position: absolute;
+    padding: 30px 150px 20px;
+    color: green;
+}
+.choose{
+    margin: 50px 100px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    background-color:white;
+    color:black;
+    padding: 20px;
+    margin: 10px;
+    border: white;
+}
+.model{
+    background-color: rgb(233, 229,229);
+    height: 700px;
+}
+.card{
+    display: flex;
+    justify-content: space-evenly;
+}
+.q{
+    width: 450px;
+    justify-content: space-evenly;
+}
